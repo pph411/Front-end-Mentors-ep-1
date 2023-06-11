@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![Screenshot](./screenshot-QR-code.JPG)
+![Screenshot](./images/screenshot-QR-code.JPG)
 
 ### Links
 
